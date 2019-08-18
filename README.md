@@ -25,3 +25,4 @@
 |font-weight|改變字的粗細| bold=粗 , normal=細|
 |font-style|改變字的風格|italic=斜體字向右傾斜|
 |color , background-color|改變字的顏色|[color charts] : (https://www.w3schools.com/cssref/css_colors.asp) <br> rgb(80%,40%,0%) <br>rgb(204,102,0)|
+|text-decoration|裝飾字體|underline=底線 , line-through=文字中有條線（刪除線）, overline頂線 , none 沒有線 |
