@@ -3,7 +3,7 @@
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| :-----:|
-|<ul></ul>|Unorder List| 無序清單|
+|<ul>|Unorder List| 無序清單|
 |ol|Order List|有序清單|
 |li|List Item|清單項目|
 |a|no|製作連結|
