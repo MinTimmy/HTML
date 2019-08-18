@@ -16,3 +16,12 @@
 |blockquote||用於常引文的文件|
 
 
+# CSS
+
+|CSS語法       | 功能           | 細項  |
+| ------------- |:-------------:| :-----:|
+|font-family|改變字體|sans-serif , serif , monospace , cursive , fantasy|
+|font-size|改變字的大小| small , medium , large , 10px , 120%|
+|font-weight|改變字的粗細| bold=粗 , normal=細|
+|font-style|改變字的風格|italic=斜體字向右傾斜|
+|color , background-color|改變字的顏色|[color charts] : https://www.w3schools.com/cssref/css_colors.asp|
