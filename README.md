@@ -16,9 +16,7 @@
 |blockquote||用於常引文的文件|
 
 <br>
-```
-<a href="連結網址">連結名稱</a>
-```
+
 
 
 # CSS
@@ -31,3 +29,5 @@
 |font-style|改變字的風格|italic=斜體字向右傾斜|
 |color , background-color|改變字的顏色|[color charts] : (https://www.w3schools.com/cssref/css_colors.asp) <br> rgb(80%,40%,0%) <br>rgb(204,102,0)|
 |text-decoration|裝飾字體|underline=底線 , line-through=文字中有條線（刪除線）, overline=頂線 , none=沒有線 |
+
+例子在:demo3,demo4
