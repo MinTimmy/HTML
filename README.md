@@ -14,6 +14,7 @@
 |br||換行|
 |img|image|插入圖片|
 |blockquote||用於常引文的文件|
+例子在:demo1,demo2
 
 <br>
 
