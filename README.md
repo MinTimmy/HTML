@@ -27,7 +27,8 @@
 
 <br>
 ##  編號項目符號
-&lt;ol&gt;編號清單
+
+1.&lt;ul&gt;編號清單
 <br>
 ```HTML
 <ol start="起始編號" type="編號模式">
